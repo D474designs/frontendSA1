@@ -11,7 +11,7 @@
  - Use atom text editor to write the code. The instructions for the code are in comments.
 
 ## Resources
- - You can only use **W3 Schools**, **MDN** and **the console**. Remember you are assesing yourself on how to 
+ - You can **ONLY** use **W3 Schools**, **MDN** and **the console**. Remember you are assesing yourself on how to 
  approach and solve problems in Javascript.
 
 ## Important
