@@ -9,10 +9,13 @@
  - Fork this repo to your own github account and clone it to your own laptops.
  - Open the challenges folder to access the Javascript problems.
  - Use atom text editor to write the code. The instructions for the code are in comments.
+ - Once you are done with a challenge, commit and push your work to your own fork. Remember to make use of the resources 
+ that you have to check your code and confirm methods.
 
 ## Resources
  - You can **ONLY** use **W3 Schools**, **MDN** and **the console**. Remember you are assesing yourself on how to 
  approach and solve problems in Javascript.
+ - DO NOT USE **stackoverflow**.
 
 ## Important
  - Time is of essence so kindly adhere to the time that you are given by the instructor.
